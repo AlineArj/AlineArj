@@ -4,7 +4,7 @@
 
 * 🎓 Electrical Engineering with an emphasis on Electronics - USP 
 
-* :round_pushpin: Back-And Developer
+* :round_pushpin: Back-End Developer
 
 ### Languages and tools
 
