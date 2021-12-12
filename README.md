@@ -14,6 +14,8 @@
 
 📍📚 Atualmente estudando Python e banco de dados relacionais (PostgreSQL).
 
+📍💼 Procurando oportunidades para ingressar no mercado de trabalho.
+
 ## Tecnologias e Ferramentas 
 
 <p align="center">
