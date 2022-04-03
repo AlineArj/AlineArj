@@ -12,9 +12,7 @@
 
 📍🐱 Mãe de quatro gatinhos: Leonardo, Frida, Donatello e Penélope.
 
-📍📚 Atualmente estudando Python e banco de dados relacionais (PostgreSQL).
-
-📍💼 Procurando oportunidades para ingressar no mercado de trabalho.
+📍📚 Atualmente estudando HTML, CSS e JS
 
 ## Tecnologias e Ferramentas 
 
